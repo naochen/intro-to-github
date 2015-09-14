@@ -13,6 +13,7 @@ namespace WebApplication.Models
         {
             //try to do somethings here
             // get what?
+            testtttt
             // error = (more code)^2
             // e = mc^2
             base.OnModelCreating(builder);
